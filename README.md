@@ -1,7 +1,7 @@
 <!--
  * @Author: rowG
  * @Date: 2021-03-27 09:24:11
- * @LastEditTime: 2021-03-28 20:45:16
+ * @LastEditTime: 2021-03-28 20:56:00
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \03-Git\git.md
@@ -88,3 +88,5 @@ git config user.name ""
 git config user.email ""
 // 或指定一个全局的username/email 在有需要的git repo再单独设置
 ```
+
+xixixi
